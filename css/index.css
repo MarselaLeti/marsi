@@ -23,3 +23,7 @@ body{
 header>img{
     height: 100dvh;
 }
+
+.bg-about{
+    background-color: rgba(139, 51, 19, 0.599);
+}
